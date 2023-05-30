@@ -10,7 +10,7 @@ const Web3 = require('web3');
 const abiDecoder = require('abi-decoder');
 //import abiDecoder from 'abi-decoder';
 
-const web3 = new Web3('http://localhost:7545');
+const web3 = new Web3('http://59.6.236.50:7545');
 const contractAddress = 
 '0x96F1792732740FcD29bd6292166F703A0694b3d5'; // Replace with the address of your deployed 
 
