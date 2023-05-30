@@ -143,6 +143,6 @@ app.use(express.json());
 
   
 
-  app.listen(7545, () => {
-    console.log('Server started on port 7545');
+  app.listen(3000, () => {
+    console.log('Server started on port 3000');
   });
